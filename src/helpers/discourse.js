@@ -20,7 +20,7 @@ const createTopic = (form, apiKey, messages) => (
     method: 'post',
     headers: { 'Api-Key': apiKey, 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      title: `Burning Stories - response by ${formField(form, 'name')}`,
+      title: `Internet of Humans - response by ${formField(form, 'name')}`,
       raw: generateResponse(form),
       category: process.env.VUE_APP_DISCOURSE_CATEGORY
     })
