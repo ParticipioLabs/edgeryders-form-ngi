@@ -1,6 +1,6 @@
 {
   "brand": {
-    "title": "Get involved with Burning Stories",
+    "title": "Edgeryders Internet of Humans",
     "logoSrc": "/favicon.ico",
     "imageSrc": "/logo.png",
     "beginText": "BEGIN",
@@ -25,23 +25,19 @@
     "settings": { "omitFields": true }
   },
   "slides": [{
-    "title": "Hello, and welcome to Burning Stories!",
-    "subtitle": "Welcome to the Burning Stories research unit - an experiment in understanding creative and participatory leadership",
-    "body": "The aim of Burning Stories is to study the global Burning Man community. We seek to explain the processes through which community membership evolves across time and space, and how this, in turn, affects their experience of the collective identity. There is a very limited understanding of how its immersive experiences transform individuals, let alone society. That is precisely what we aim to find out with this project.",
-    "fields": []
-  }, {
-    "title": "Ready?",
-    "body": "What was it that brought you here? What do you really care about right now? You are somehow connected to the global 'burner' culture, either as a researcher of it, a leader in it or a co-creator of it. What are the experiences that keep pulling you back into it?",
+    "title": "Hello, and welcome to Edgeryders Internet of Humans!",
+    "subtitle": "What should the Internet - and all it encompasses, which means pretty much everything - really do for humanity? How should it work? How should it be governed?",
+    "body": "Next Generation Internet [NGI] is a quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.",
     "fields": []
   }, {
     "index": 1,
-    "body": "Think back on the last 12 months. Did you go to any 'burns'? What were the themes for you?"
+    "body": "Tell us about yourself? What are you working on and why are you here?"
   }, {
     "index": 2,
-    "body": "What are you curious to learn from studying Burning Man and other burn events and their cultures?"
+    "body": "When did something related to the internet last make you hopefull or happy?"
   }, {
     "index": 3,
-    "body": "Imagine Burning Man in ten years. What does it look like?"
+    "body": "When did something related to the internet last make you upset, afraid or angry?"
   }, {
     "index": 4,
     "title": "The last little bit!",
@@ -50,11 +46,11 @@
     "fields": [{
       "name": "name",
       "type": "text",
-      "placeholder": "Name/nickname",
+      "placeholder": "Name/nickname (you can be anonomous)",
       "half": true,
       "required": true,
       "autofocus": true,
-      "error": "Please enter your name"
+      "error": "Please enter your name/nickname"
     }, {
       "name": "email",
       "type": "email",
@@ -65,7 +61,7 @@
     }, {
       "name": "consent",
       "type": "checkbox",
-      "placeholder": "I understand that this form is used for research and that submitting it will create an account for me on the Burning Stories forum.",
+      "placeholder": "I understand that submitting this form will create an account for me on Edgeryders.eu, and that my responses will be posted by that account. I understand that I can log in at any time and update my answer or continue the conversation with other participants. I understand that this form is used for community driven research. Researchers are encouraged to treat your answers as a window into societal, economic, technological, and political trends and transformations that affect us. As I participate in the discussion, I do not fear bad consequences when sharing with others my views and alignment on societal, economic, technological and political issues.",
       "required": true,
       "error": "Please consent to the terms and conditions",
       "settings": { "omit": true }
@@ -75,7 +71,7 @@
     "settings": { "omitBody": true }
   }, {
     "title": "Well done!",
-    "body": "Thank you for taking the time to join Burning Stories!",
+    "body": "Thank you for taking the time to join the Internet of Humans!",
     "fields": [],
     "backText": null,
     "nextText": null
