@@ -27,7 +27,7 @@
   "slides": [{
     "title": "Edgeryders Colaborathon Form",
     "subtitle": "Welcome to Edgeryders!",
-    "body": "<strong>About this exercise:</strong> This exercise is a fun and easy way to collect stories from each other. This form guides you through the three steps.<br/><br/> <strong>If the person being interviewed already have an edgeryders.eu account:</strong> <ol><li>Log in <a href=\"https://edgeryders.eu/login\" target=\"_blank\">here</a>.</li> <li>Log in to their account, go to <a href=\"https://edgeryders.eu/c/workspaces/ngi-form-responses-temporary\" target=\"_blank\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If they do not already have an account, then the rest of this form is for you!</strong>",
+    "body": "<strong>About this exercise:</strong> This exercise is a fun and easy way to collect stories from each other. This form guides you through the three steps.<br/><br/> <strong>If the person being interviewed already have an edgeryders.eu account:</strong> <ol><li>Have them log in to their account <a href=\"https://edgeryders.eu/login\" target=\"_blank\">here</a>.</li> <li>Go to <a href=\"https://edgeryders.eu/c/workspaces/ngi-form-responses-temporary\" target=\"_blank\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If they do not already have an account, then the rest of this form is for you!</strong>",
     "fields": []
   }, {
     "title": "How it works",
