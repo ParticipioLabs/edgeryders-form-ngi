@@ -1,6 +1,6 @@
 {
   "brand": {
-    "title": "Edgeryders Internet of Humans",
+    "title": "Edgeryders Colaborathon Form",
     "logoSrc": "/favicon.ico",
     "imageSrc": "/logo.png",
     "beginText": "BEGIN",
@@ -17,7 +17,7 @@
       "name": "message",
       "type": "textarea",
       "placeholder": "write here...",
-      "required": false,
+      "required": true,
       "autofocus": true,
       "error": "Please write a response!"
     }],
@@ -25,43 +25,51 @@
     "settings": { "omitFields": true }
   },
   "slides": [{
-    "title": "Hello, and welcome to Edgeryders Internet of Humans!",
-    "subtitle": "What should the Internet - and all it encompasses, which means pretty much everything - really do for humanity? How should it work? How should it be governed?",
-    "body": "Next Generation Internet [NGI] is a quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.",
+    "title": "Edgeryders Colaborathon Form",
+    "subtitle": "Welcome to Edgeryders!",
+    "body": "<strong>About this exercise:</strong> This exercise is a fun and easy way to collect stories from each other. This form guides you through the three steps.<br/><br/> <strong>If you already have an edgeryders.eu account:</strong> <ol><li>Log in <a href=\"https://edgeryders.eu/login\" target=\"_blank\">here</a>.</li> <li>Go <a href=\"https://edgeryders.eu/c/workspaces/ngi-form-responses-temporary\" target=\"_blank\">here</a>.</li> <li>Hit the \"+ New topic\" button and answer the questions.</li></ol> <strong>If you do not already have an account, then the rest of this form is for you!</strong>",
     "fields": []
   }, {
+    "title": "How it works",
+    "body": "Welcome! In this group exercise you will need to play three roles: take notes, ask questions and answer questions for 10 minutes each. And then switch roles twice. So by the end of the exercise each person has played all three roles.<br/><br/> How it works:<br/><br/> <ul><li>Step 1: One of the three people in the group volunteers to take notes first. Adds name and email of person speaking in text editor then takes notes ad verbatim (word for word).</li> <li>Step 2: For the note taker: Listen to the person in the group asking the questions above and the other answering, and write down the answers. Don’t worry about the spelling.</li> <li>Step 3: When the person has finished talking, it is time to switch roles: You speak, while someone else asks you questions and the third takes notes by filling in their own form at listen.edgeryders.eu.</li></ul>",
+    "fields": [],
+    "nextText": "READY? LET'S GO!",
+    "nextTitle": "Start the listening triad form"
+  }, {
     "index": 1,
-    "body": "Tell us about yourself? What are you working on and why are you here?"
+    "title": "Question 1/3: Who's talking?",
+    "body": "Ask the person who is speaking right now what their name is, and if they already have an edgeryders.eu account? Add their answer here."
   }, {
     "index": 2,
-    "body": "When did something related to the internet last make you hopefull or happy?"
+    "title": "Question 2/3: What are you taking away from the collaborathon? What are you learning?",
+    "body": "What is the person who is speaking saying? Please try to write every word – sometimes a single word can unlock a lot of thoughts!"
   }, {
     "index": 3,
-    "body": "When did something related to the internet last make you upset, afraid or angry?"
+    "title": "Question 3/3: Reflection.",
+    "body": "Where does it go from here? How do you want to continue? What are you curious to explore next?"
   }, {
     "index": 4,
     "title": "The last little bit!",
     "nextTitle": "Submit your response!",
-    "body": "These questions will be used to register an account for you on our forum. where you can go back and update your answers.",
+    "body": "This part of the form <strong>should be answered by the person who as interviewed</strong>. Hand the computer to them and allow them to fill in this page. These questions will help everyone to find the documentation and continue the discussion after the event.",
     "fields": [{
       "name": "name",
       "type": "text",
-      "placeholder": "Name/nickname (you can be anonomous)",
-      "half": true,
+      "placeholder": "Name/nickname of the person",
       "required": true,
       "autofocus": true,
-      "error": "Please enter your name/nickname"
+      "error": "Please enter name/nickname of the person who was interviewed"
     }, {
       "name": "email",
       "type": "email",
-      "placeholder": "E-mail",
+      "placeholder": "E-mail address",
       "required": true,
-      "error": "Please enter your email address",
+      "error": "Please enter the email address of the person who was interviewed",
       "settings": { "omit": true }
     }, {
       "name": "consent",
       "type": "checkbox",
-      "placeholder": "I understand that submitting this form will create an account for me on Edgeryders.eu, and that my responses will be posted by that account. I understand that I can log in at any time and update my answer or continue the conversation with other participants. I understand that this form is used for community driven research. Researchers are encouraged to treat your answers as a window into societal, economic, technological, and political trends and transformations that affect us. As I participate in the discussion, I do not fear bad consequences when sharing with others my views and alignment on societal, economic, technological and political issues.",
+      "placeholder": "I understand that submitting this form will create an account for me on Edgeryders.eu, and that my responses will be posted by that account. I understand that I can log in at any time and update my answer or continue the conversation with other participants. I understand that this form is used for community driven research. Researchers are encouraged to treat your answers as a window into societal, economic, technological, and political trends and transformations that affect us. ",
       "required": true,
       "error": "Please consent to the terms and conditions",
       "settings": { "omit": true }
@@ -71,10 +79,10 @@
     "settings": { "omitBody": true }
   }, {
     "title": "Well done!",
-    "body": "Thank you for taking the time to join the Internet of Humans!",
+    "body": "Well done! Thank you for taking part in the listening triade.<br/><br/>* We have created a new edgeryders.eu account for you, and <a target=\"_blank\" href=\"https://edgeryders.eu/c/campfire/listening-triads\">published your listening triade notes</a> using that account. You will receive an e-mail about the account we created for you. You can use that to log in to edgeryders.eu and edit your listening triade notes. No password is required to login – just click \"With Email\" in the login form to receive a one-time login link.",
     "fields": [],
     "backText": null,
-    "nextText": null
+    "nextText": null 
   }],
   "messages": {
     "networkError": "Sorry, we were unable to store your response due to a network connectivity issue. Please try clicking on \"Send\" again.",
