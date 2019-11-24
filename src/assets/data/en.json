@@ -31,7 +31,7 @@
     "fields": []
   }, {
     "index": 1,
-    "body": "Tell us about yourself? What are you working on and why are you here?"
+    "body": "Tell us about yourself? What are you working on and why are you at Internetdagarna?"
   }, {
     "index": 2,
     "body": "When did something related to the internet last make you hopefull or happy?"
@@ -61,7 +61,7 @@
     }, {
       "name": "consent",
       "type": "checkbox",
-      "placeholder": "I understand that submitting this form will create an account for me on Edgeryders.eu, and that my responses will be posted by that account. I understand that I can log in at any time and update my answer or continue the conversation with other participants. I understand that this form is used for community driven research. Researchers are encouraged to treat your answers as a window into societal, economic, technological, and political trends and transformations that affect us. As I participate in the discussion, I do not fear bad consequences when sharing with others my views and alignment on societal, economic, technological and political issues.",
+      "placeholder": "I understand that submitting this form will create an account for me on Edgeryders.eu, and that my responses will be posted by that account. I understand that I can log in at any time and update my answer or continue the conversation with other participants. I understand that this form is used for community driven research. Researchers are encouraged to treat your answers as a window into societal, economic, technological, and political trends and transformations that affect us.",
       "required": true,
       "error": "Please consent to the terms and conditions",
       "settings": { "omit": true }
